@@ -1,5 +1,7 @@
 # Web Technology 
 
+This is REPO Recommanded BY Om Surase 
+
 ### Mini problem statements
 This directory contains all the mini problem statements that I have solved during my web technology course. <br>
 All problem statements have a database and other files that are required to run the code.
